@@ -1,0 +1,17 @@
+training_data
+*data*
+*exp*
+vis
+rollouts*
+experiments/logs
+LIFT3D
+txt
+.ssh
+.vscode
+*.pyc
+**/*/__pycache__/
+pretrained
+test_results
+exp_libero
+scripts_libero/*.sh
+src
